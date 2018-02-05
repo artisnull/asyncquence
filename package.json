@@ -1,0 +1,17 @@
+{
+  "name": "asyncquence",
+  "version": "0.1.0",
+  "description": "Batch-run synchronous and asynchronous operations in sequence",
+  "main": "./dist/index.js",
+  "keywords": [
+    "async",
+    "sequence",
+    "queue",
+    "task",
+    "operations",
+    "order",
+    "return"
+  ],
+  "author": "artisnull",
+  "license": "ISC"
+}
