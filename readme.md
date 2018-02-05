@@ -1,6 +1,7 @@
 asyncquence
 ---
 #### Run synchronous and asynchronous functions in sequence, with hooks, value pass through, and more!
+https://www.npmjs.com/package/@artisnull/asyncquence
 
 ---
 ### Key Features
@@ -11,9 +12,15 @@ asyncquence
 * Pause/Resume or Cancel whenever you want
 * Pass the results of the previous task through to the next one
 ---
+### Install
+```
+npm install @artisnull/asyncquence
+```
+---
 ### Sample usage
 ##### Basic:
 ```javascript
+import Asyncquence from '@artisnull/asyncquence'
 const asq = new Asyncquence()
 
 const func1 = () => Promise.resolve(1)
