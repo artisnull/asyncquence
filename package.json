@@ -1,5 +1,6 @@
 {
-  "name": "asyncquence",
+  "name": "@artisnull/asyncquence",
+  "repository": "github:artisnull/asyncquence",
   "version": "0.1.0",
   "description": "Batch-run synchronous and asynchronous operations in sequence",
   "main": "./dist/index.js",
@@ -13,5 +14,5 @@
     "return"
   ],
   "author": "artisnull",
-  "license": "ISC"
+  "license": "MIT"
 }
